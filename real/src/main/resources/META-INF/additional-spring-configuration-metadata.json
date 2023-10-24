@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.security.provider.github.authorization-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.provider.github.authorization-url'"
+  },
+  {
+    "name": "spring.provider.github.authorization-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.provider.github.authorization-uri'"
+  },
+  {
+    "name": "spring.security.provider.github.user-info-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.provider.github.user-info-uri'"
+  },
+  {
+    "name": "spring.security.provider.github.token-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.provider.github.token-uri'"
+  },
+  {
+    "name": "spring.security.provider.github.authorization-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.provider.github.authorization-uri'"
+  }
+]}
